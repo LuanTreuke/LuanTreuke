@@ -33,7 +33,11 @@ Atualmente estou no 6º semestre do curso de Análise e Desenvolvimento de Siste
 
 ### 🗄️ Banco de Dados
 - Modelagem de dados, consultas SQL e integração com Prisma ORM  
-- Experiência com MySQL e SQLite  
+- Experiência com MySQL e SQLite
+
+### 📝 Documentação e Modelagem
+- Elaboração de documentação técnica (requisitos, manuais, APIs)
+- Criação de diagramas UML, ER, fluxogramas e modelos de dados
 
 ### 📐 Boas Práticas
 - Clean Code  
