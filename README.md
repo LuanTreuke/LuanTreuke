@@ -42,8 +42,9 @@ Atualmente estou no 6º semestre do curso de Análise e Desenvolvimento de Siste
 
 ### 🌐 Idiomas
 - 🇧🇷 **Português:** Nativo  
-- 🇺🇸 **Inglês:** Intermediário técnico  
-  - Leitura de documentação, artigos e comunicação técnica/informal
+- 🇺🇸 **Inglês:** Intermediário
+  - Técnico e informal
+  - Leitura de documentação, textos e comunicação
 
 ---
 
