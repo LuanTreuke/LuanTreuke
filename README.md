@@ -16,6 +16,8 @@ Atualmente estou no 6º semestre do curso de Análise e Desenvolvimento de Siste
 
 ## 🛠️ Habilidades
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuanTreuke)](https://github.com/LuanTreuke/github-readme-stats)
+
 ### 💻 Linguagens
 - **Java:** Spring Boot, JavaFX, POO, Maven  
 - **Kotlin:** Desenvolvimento Android  
