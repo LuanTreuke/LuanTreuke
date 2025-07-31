@@ -16,24 +16,86 @@ Atualmente estou no 6º semestre do curso de Análise e Desenvolvimento de Siste
 
 ## 🛠️ Habilidades
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuanTreuke)](https://github.com/LuanTreuke/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuanTreuke&layout=compact&count_private=true)
-
 ### 💻 Linguagens
-- **Java:** Spring Boot, JavaFX, POO, Maven  
-- **Kotlin:** Desenvolvimento Android  
-- **TypeScript & JavaScript:** Node.js, React, Next.js, NestJS  
+
+#
+
+- **Java:** Spring Boot, JavaFX, POO, Maven
+<div style="display: inline_block">
+  <img align="center" height="30" width="40" src="https://devicon-website.vercel.app/api/java/original.svg"></img>
+</div> 
+
+#
+
+- **Kotlin:** Desenvolvimento Android
+<div style="display: inline_block">
+  <img align="center" height="30" width="40" src="https://devicon-website.vercel.app/api/kotlin/original.svg"></img>
+</div>
+
+#
+
+- **TypeScript & JavaScript:** Node.js, React, Next.js, NestJS
+  
+<div style="display: inline_block">
+  <img align="center" height="30" width="40" src="https://devicon-website.vercel.app/api/typescript/original.svg"></img>
+  <img align="center" height="30" width="40" src="https://devicon-website.vercel.app/api/javascript/original.svg"></img>
+  <img align="center" height="30" width="40" src="https://devicon-website.vercel.app/api/nodejs/original.svg"></img>
+  <img align="center" height="30" width="40" src="https://devicon-website.vercel.app/api/react/original.svg"></img>
+  <img align="center" height="30" width="40" src="https://devicon-website.vercel.app/api/nextjs/original.svg"></img>
+  <img align="center" height="30" width="40" src="https://devicon-website.vercel.app/api/nestjs/plain.svg"></img>
+</div>
+
+#
+  
 - **PHP:** Desenvolvimento Web
-- **WEB:** HTML, CSS e JAVASCRIPT
-- **C#:** Aplicações desktop com .NET  
+
+<div style="display: inline_block">
+  <img align="center" height="30" width="40" src="https://devicon-website.vercel.app/api/php/original.svg"></img>
+</div>
+
+#
+  
+- **WEB:** HTML, CSS e JavaScript
+
+<div style="display: inline_block">
+  <img align="center" height="30" width="40" src="https://devicon-website.vercel.app/api/html5/original.svg"></img>
+  <img align="center" height="30" width="40" src="https://devicon-website.vercel.app/api/css3/original.svg"></img>
+  <img align="center" height="30" width="40" src="https://devicon-website.vercel.app/api/javascript/original.svg"></img>
+</div>
+
+#
+
+- **C#:** Aplicações desktop com .NET
+
+<div style="display: inline_block">
+  <img align="center" height="30" width="40" src="https://devicon-website.vercel.app/api/dotnetcore/original.svg"></img>
+</div>
+
+#
+- **C:** Lógica de programação básica
+
+<div style="display: inline_block">
+  <img align="center" height="30" width="40" src="https://devicon-website.vercel.app/api/c/original.svg"></img>
+</div>
+
+#
 
 ### ⚙️ Frameworks & Ferramentas
 - **Back-end:** Spring Boot, Spring Data JPA, NestJS, Prisma ORM  
 - **Front-end:** React, Next.js, Tailwind CSS  
 - **Mobile:** Android SDK, Jetpack, padrão MVVM  
 - **Banco de Dados:** MySQL, SQLite, Prisma  
-- **Outros:** Git, GitHub, Google Workspace  
+- **Outros:** Git, GitHub, Google Workspace, Figma, Draw.io
+
+<div style="display: inline_block">
+  <img align="center" height="30" width="40" src="https://devicon-website.vercel.app/api/mysql/original.svg"></img>
+  <img align="center" height="30" width="40" src="https://devicon-website.vercel.app/api/sqlite/original.svg"></img>
+  <img align="center" height="30" width="40" src="https://devicon-website.vercel.app/api/git/original.svg"></img>
+  <img align="center" height="30" width="40" src="https://devicon-website.vercel.app/api/github/original.svg""></img>
+  <img align="center" height="30" width="40" src="https://devicon-website.vercel.app/api/figma/original.svg""></img>
+</div>
+
+#
 
 ### 🗄️ Banco de Dados
 - Modelagem de dados, consultas SQL e integração com Prisma ORM  
