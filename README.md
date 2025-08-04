@@ -6,7 +6,7 @@
 
 ---
 
-## 💡 Sobre mim
+## Sobre mim
 
 Sou um desenvolvedor em formação, com forte capacidade de adaptação, autodidata e interessado em tecnologia. Tenho facilidade para trabalhar em equipe, sou organizado e busco sempre agir com ética e responsabilidade.
 
@@ -17,7 +17,7 @@ Atualmente estou no 6º semestre do curso de Análise e Desenvolvimento de Siste
 ## 🛠️ Habilidades
 
 
-### 💻 Linguagens
+### Linguagens
 
 #
 
