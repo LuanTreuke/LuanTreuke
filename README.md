@@ -10,7 +10,8 @@
 
 Sou um desenvolvedor em formação, com forte capacidade de adaptação, autodidata e interessado em tecnologia. Tenho facilidade para trabalhar em equipe, sou organizado e busco sempre agir com ética e responsabilidade.
 
-Atualmente estou no 6º semestre do curso de Análise e Desenvolvimento de Sistemas no Instituto Federal do Paraná (IFPR), onde venho desenvolvendo habilidades técnicas em programação, bancos de dados e ferramentas colaborativas.
+Atualmente estou no 6º semestre do curso de Análise e Desenvolvimento de Sistemas no IFPR, onde venho desenvolvendo habilidades técnicas em programação, bancos de dados, ciência de dados, inteligência artificial e ferramentas colaborativas.
+
 
 ---
 
